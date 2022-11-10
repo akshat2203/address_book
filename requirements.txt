@@ -1,0 +1,5 @@
+fastapi==0.86.0
+geopy==2.2.0
+SQLAlchemy==1.4.43
+uvicorn==0.19.0
+
